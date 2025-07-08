@@ -1,5 +1,6 @@
 # API key protection
 .yaml
+KIS/
 
 # --------Default gitignore for python---------------
 # Byte-compiled / optimized / DLL files
